@@ -21,7 +21,7 @@ export default function Centralpage({archivos}) {
           </Head>
           <nav className='bg-dark p-3 d-flex justify-content-between align-items-center'>
             <h1 className='text-white'>Task-App-Auth | Next.js</h1>
-            <a href='https://github.com/ferOlguiin?tab=repositories' target="_blank"><VscGithubInverted className='text-white fs-2'/></a>
+            <a href='https://github.com/ferOlguiin?tab=repositories' target="_blank" rel="noreferrer"><VscGithubInverted className='text-white fs-2'/></a>
           </nav>
               <div className='d-flex justify-content-center align-items-center my-4'>
                 <Link href="/agregar">

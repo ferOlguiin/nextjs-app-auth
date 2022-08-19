@@ -1,6 +1,6 @@
 import { useRouter } from "next/router"
 
-const logout = () => {
+const Logout = () => {
 
     const router = useRouter();
 
@@ -12,4 +12,4 @@ const logout = () => {
   )
 }
 
-export default logout
+export default Logout

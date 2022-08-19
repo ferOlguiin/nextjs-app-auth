@@ -1,6 +1,6 @@
 import { useRouter } from "next/router"
 
-const login = () => {
+const Login = () => {
     
     const router = useRouter();
 
@@ -11,4 +11,4 @@ const login = () => {
   )
 }
 
-export default login
+export default Login
